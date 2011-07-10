@@ -1,0 +1,30 @@
+body {
+    padding-top: 10px;
+    background-color: #ccc; 
+}
+
+/** Header */
+header {
+    float: left;
+    margin-right: 50px;
+    margin-left: 50px;
+    font-size: 14pt;
+    font-weight: bold;
+}
+
+/** Canvas */
+canvas {
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+/** Navigation */
+nav {
+   border : 1px  
+}
+
+nav ul,
+nav ul li {
+    list-style-type: none;
+    display: inline-block;
+}
